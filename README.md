@@ -66,6 +66,8 @@ int main(int argc, char* argv[]){
 <h2>Related</h2>
 <a href='https://github.com/DiegoAndresRa/Hill_Cipher'>Hill Cipher</a>
 
+## License
 
+This project is licensed under the [GNU General Public License](LICENSE) v3.0.
 
 
